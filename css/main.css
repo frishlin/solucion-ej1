@@ -1,0 +1,52 @@
+#verde1{
+    background: greenyellow;
+    height: 80px;
+    /* border: 2px solid black;
+    margin-bottom: 4px; */
+}
+
+#rojo1{
+    background: red;
+    height: 480px;
+    /* border: 3px solid black; */
+}
+#rojo2{
+    background: red;
+    height: 880px;
+    /* border: 3px solid black; */
+}
+
+#violeta{
+    background: violet;
+    height: 80px;
+    /* border: 4px solid white; */
+}
+
+#cafe1, #cafe2{
+    background: #ff9955;
+    height: 200px;
+    /* border: 4px solid white; */
+}
+
+/*
+#cafe2{
+    background: yellow;
+}
+*/
+#azul1, #azul2, #azul3, #azul4, #azul5, #azul6, #azul7, #azul8, #azul9, #azul10{
+    background: blue;
+    height: 100px;
+    color: white;
+    /* border: 4px solid white; */
+}
+
+#verde2{
+    background: greenyellow;
+    height: 40px;
+    /* border: 2px solid black;
+    margin-top: 4px; */
+}
+
+#contenedor-violeta-cafe{
+    /* border: 1px solid black; */
+}
